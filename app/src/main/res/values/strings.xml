@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Curriculum Vitae App</string>
+    <string name="homme">Homme</string>
+    <string name="femme">Femme</string>
+</resources>
